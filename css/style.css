@@ -17,9 +17,13 @@ a {
     color: white;
 }
 
-/* .kolom{
-    margin-top: -25px;
-} */
+.paragraf{
+    z-index: 1;
+}
+
+.picture{
+    margin-top: -38px;    
+}
 
 #heading{
     margin-top: 8rem;
