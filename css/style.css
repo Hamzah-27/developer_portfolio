@@ -1,0 +1,31 @@
+body{
+    background: black;
+}
+
+.navbar{
+    background: black;
+}
+
+.hero {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+/* .kolom{
+    margin-top: -25px;
+} */
+
+#heading{
+    margin-top: 8rem;
+}
+
+.article-link{
+    text-decoration: none;
+    color: white;
+}
